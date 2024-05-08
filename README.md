@@ -5,7 +5,7 @@ De Bluetooth Chat App is een Flutter applicatie waarmee gebruikers met elkaar ku
 ## Installatie
 
 1. **Clone de repository naar je machine:**
-   git clone [https://git.fhict.nl/I507960/tech-case-13-bluetooth.git]
+   git clone [https://github.com/brentvanmalsen/bluetooth-chat.git]
 
 2. **Open het project:**
    Open het project in een IDE, zoals VS Code, Xcode, of Android Studio.
@@ -44,6 +44,5 @@ De Bluetooth Chat App is een Flutter applicatie waarmee gebruikers met elkaar ku
 ## Gemaakt door
 
 Brent van Malsen.  
-GitLab: https://git.fhict.nl/I507960 
 
 
